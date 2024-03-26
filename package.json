@@ -1,6 +1,6 @@
 {
   "name": "tea-project-helloworld",
-  "version": "2.2.4",
+  "version": "2.2.6",
   "private": true,
   "private": false,
   "scripts": {
@@ -44,4 +44,15 @@
     "eslint": "^8",
     "eslint-config-next": "14.1.3"
   }
+   "repository": {
+    "type": "git",
+    "url": "https://github.com/helloworld-hkm/tea-project-helloworld.git"
+  },
+
+  "author": "Hakim ",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Onef11/tea-project2/issues"
+  },
+  "homepage": "https://github.com/helloworld-hkm/tea-project-helloworld.git"
 }
