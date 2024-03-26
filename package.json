@@ -1,7 +1,7 @@
 {
   "name": "tea-project-helloworld",
-  "version": "2.6.6",
-  "private": true,
+  "version": "2.6.7",
+
   "private": false,
   "scripts": {
     "dev": "next dev",
